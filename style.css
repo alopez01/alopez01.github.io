@@ -2,23 +2,9 @@ body {
 font-family: 'Inconsolata', monospace;
 }
 nav {
-    border-bottom: 1px solid black;
+    border-bottom: 4px solid #e21414;
+    word-spacing: 2em;
+     border-bottom: 4px solid #e21414;
+    font-size:larger
 }
 
-{
-    list-style-type: none;
-    padding-left: 0;
-}
-
- {
-    display: inline-block;
-}
-
-a::after {
-    display: inline-block;
-    color: #173;
-    
-    font-size: 80%;
-    font-weight: bold;
-    padding: 0 3px;
-}
