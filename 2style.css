@@ -4,7 +4,7 @@ font-family: 'Permanent Marker', cursive;
 nav {
     border-top: 2px solid #827272;
     color: #9b24a6;
-    word-spacing: 4em;
+    word-spacing: 11em;
     text-align:center;
     border-bottom: 2px solid #827272;
     font-size:medium;
@@ -14,10 +14,9 @@ nav {
 }
 
 #major {
-    color:#1d1b1b;
+    color:#000000;
     width:900px;
     margin:0 auto;   
     /*temporary text styles below*/
-    text-align:center;
     font-weight:bold;
 }
