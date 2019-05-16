@@ -4,7 +4,8 @@ font-family: 'Permanent Marker', cursive;
 nav {
     border-top: 2px solid #e21414;
     word-spacing: 4em;
+    text-align:center;
     border-bottom: 2px solid #e21414;
-    font-size:larger;
+    font-size:medium;
     }
 
