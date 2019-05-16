@@ -13,3 +13,11 @@ nav {
     color: #e06666;
 }
 
+#major {
+    color:#0000;
+    width:900px;
+    margin:0 auto;   
+    /*temporary text styles below*/
+    text-align:center;
+    font-weight:bold;
+}
