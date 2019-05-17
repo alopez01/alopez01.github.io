@@ -20,30 +20,7 @@ nav {
     /*temporary text styles below*/
     font-weight:bold;
 }
-#slideshow {
-    position: relative;
-    width: 300px;
-    height: 510px;
-    padding: 10px;
+#pics {
+    font-family: 'Arial', bold;
 }
  
-#slideshow > div {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-#slideshow > div > img {
-    border: 2px solid white;
-    box-shadow: 0 0 20px white;
-}
-$("#slideshow > div").hide();
- 
-setInterval(function() {
-  $('#slideshow > div:first')
-    .fadeOut(1000)
-    .next()
-    .fadeIn(1000)
-    .end()
-    .appendTo('#slideshow');
-  5000);
-}
