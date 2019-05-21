@@ -22,7 +22,8 @@ nav {
 }
 #pics {
     font-family: 'Arial', bold;
+    text-align:left;
 }
  #guilty {
-     text-align:left;
+     text-align:center;
 }
