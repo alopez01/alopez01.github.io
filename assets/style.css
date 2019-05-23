@@ -1,0 +1,25 @@
+/* for card layout */
+
+.gallery-row {
+    margin-bottom: 2rem;
+}
+
+.card-body a{ /* changes the style of a only when it's inside of card-body */
+    text-decoration: none;
+    color: black;
+}
+
+.card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
+    color: blueviolet;
+}
+.font-text {
+    font-family: 'Arial', bold; 
+}
+nav {
+    border-top: 1px solid #827272;
+    color: #9b24a6;
+    word-spacing: 11em;
+    text-align:center;
+    border-bottom: 2px solid #827272;
+    font-size:medium;
+    }
