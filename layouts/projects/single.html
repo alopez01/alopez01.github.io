@@ -8,7 +8,7 @@
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "project") }}
     <div class="container">
-        <h1>{{ .Title }}</h1>
+        <h1 class="project-header">{{ .Title }}</h1>
         
         {{/*  Each project has either a project image or a project video  */}}
         {{/*  The code below checks if there's a project video, and if so checks the type  */}}

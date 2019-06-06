@@ -1,9 +1,6 @@
 content = [
+    "/projects/guilty",
     "/projects/the-project",
-    "/projects/dirty-computer",
-    "/projects/yoga",
-    "/projects/electric-lady",
-    "/projects/tightrope",
-    "/projects/archandroid",
-    "/projects/metropolis", 
+    "/projects/the-truth",
+    "/projects/vectors",
 ]

@@ -8,8 +8,10 @@
     
     date = 2019-05-19T17:03:24-07:00 #the date the file was created
     
-    headshot = "headshot.jpg"
+    headshot = "aboutme.jpg"
 
 +++
+<div class= about-me>
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 
-I am the alphaplatinum. The archandroid. Android number 57821. Seducer of humans, breaker of rules, escapee of the droid control. The elusive, the rulebreaker bounty-hunters dream of catching. I am your worst nightmare.
+I’m Ana and I am a filmmaker. With all the blood and gore horror  has to offer, I would have to say that it is my favorite genre. Some of my work consists of how music can change the way we perceive the screen. We can see a scene as horrific or romantic depending on what music is playing during the scene. I also challenge visual stereotypes by dressing actors according to their stereotypes in the film and having the outcome be different from what the audience assumed. My goal is to capture the best quality film there is to offer while leaving the audience breathless.
